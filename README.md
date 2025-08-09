@@ -2,6 +2,13 @@
 
 This project uses **Convolutional Neural Networks (CNNs)** to detect and classify Knee Osteoarthritis (OA) severity from X-ray images with **94% accuracy**. It aims to support early diagnosis, improve treatment planning, and enhance patient care.
 
+## 🏥 Introduction
+Knee Osteoarthritis (OA) is one of the most common joint disorders, affecting millions worldwide and leading to pain, stiffness, and reduced mobility. Early diagnosis plays a crucial role in preventing further damage and improving patient quality of life. However, traditional diagnosis methods depend heavily on manual examination of X-rays, which can be time-consuming, subjective, and prone to human error.
+
+This project harnesses the power of **Deep Learning**—specifically, Convolutional Neural Networks (CNNs)—to create a reliable, automated solution for OA detection and severity classification. By analyzing knee X-ray images, our system can accurately distinguish between normal and affected joints, while classifying OA into multiple severity stages. This approach not only speeds up diagnosis but also assists medical professionals with data-backed insights, enabling faster and more precise treatment decisions.
+
+Our goal is to bridge the gap between **AI technology** and **patient-centric healthcare**, delivering a tool that is accurate, scalable, and easy to integrate into existing medical workflows.
+
 ## 🚀 Features
 - Automatic OA detection from knee X-rays
 - Classification into multiple severity levels
