@@ -37,7 +37,9 @@ If you use this work, please cite our research paper:
 - Priya A. Maurya
 
 ##Web Page Image
-<img width="1988" height="1128" alt="Picture4" src="https://github.com/user-attachments/assets/91b66b03-97d0-4394-95d3-d74d878549d0" />
+![IMG-20250809-WA0012](https://github.com/user-attachments/assets/76f234f6-6500-4822-84e4-bca5d4792a4e)
+
+
 
 ---
 
