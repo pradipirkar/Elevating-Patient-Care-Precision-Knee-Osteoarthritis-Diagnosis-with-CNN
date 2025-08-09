@@ -20,6 +20,8 @@ This project uses **Convolutional Neural Networks (CNNs)** to detect and classif
 - src/ # Source code
 - README.md # Project overview
 
+## Web Page Image
+![IMG-20250809-WA0012](https://github.com/user-attachments/assets/76f234f6-6500-4822-84e4-bca5d4792a4e)
 
 ## 📊 Results
 - **Accuracy:** 94%
@@ -35,11 +37,6 @@ If you use this work, please cite our research paper:
 - Nikita L. Pingale
 - Pradip S. Irkar
 - Priya A. Maurya
-
-## Web Page Image
-![IMG-20250809-WA0012](https://github.com/user-attachments/assets/76f234f6-6500-4822-84e4-bca5d4792a4e)
-
-
 
 ---
 
